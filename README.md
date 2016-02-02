@@ -1,2 +1,2 @@
 # ipupdate
-For update the lastest and fastest yizhihongxin shadowsocks server ip
+For update the lastest and fastest yizhihongxing shadowsocks server ip
